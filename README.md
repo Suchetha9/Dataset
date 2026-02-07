@@ -1,7 +1,7 @@
 
-# SDNIoTBot Dataset
+# SDNIoT Botnet Dataset
 
-This repository contains the **SDNIoTBot Dataset**, intended for research in:
+This repository contains the **SDNIoT Botnet Dataset**, intended for research in:
 - IoT Botnet Detection
 - Software Defined Networking (SDN)
 - Network Security
